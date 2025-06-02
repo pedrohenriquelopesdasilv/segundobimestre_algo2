@@ -26,7 +26,7 @@
 # print(teste)
 # teste.remove(1)
 # print(teste)
-teste = {1, 2, 3, 5}
-print(teste)
-teste.remove(teste(1))
-print(teste)
+# teste = {1, 2, 3, 5}
+# print(teste)
+# teste.remove(1)
+# print(teste)
